@@ -1,57 +1,27 @@
-<!-- ========================================= -->
-<!--            GITHUB PROFILE README          -->
-<!-- ========================================= -->
-
-<h1 align="center">👋 Olá, eu sou Gabriel Braganholo</h1>
+<h1 align="center">Olá, eu sou Gabriel Morais Braganholo</h1>
 
 <h3 align="center">
-💻 Estudante de Ciência da Computação • Backend Developer • Machine Learning Enthusiast
+💻 Estudante de Ciência da Computação • Backend Developer
 </h3>
 
+<br>
+
+<p align="justify">
+Estudo na Universidade Franciscana de Santa Maria, atualmente no 3º semestre. Tenho interesse em desenvolvimento backend, inteligência artificial e machine learning, e gosto de criar projetos práticos utilizando Python, APIs e automações, sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
+</p>
+
 ---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbraganholo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbraganholo&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,django,c,cs,java,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Estudando Ciência da Computação
-- 🧠 Aprendendo Machine Learning e Inteligência Artificial
-- 🔥 Explorando APIs, automações e projetos backend
-- 🎵 Criando projetos com Spotify API, Django e Python
-- 📚 Atualmente estudando:
-  - Scikit-Learn
-  - TensorFlow
-  - PyTorch
-  - Django
-  - APIs REST
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,c,cs,java,sql,git,github,vscode" />
-
-</div>
-
----
 
 ## 📈 Estatísticas
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielbraganholo&theme=tokyonight" />
-
-</div>
 
 <div align="center">
 
@@ -59,30 +29,22 @@
 
 </div>
 
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielbraganholo&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
+##
 
 ## 📌 Projetos em destaque
 
 ### 🎵 Spotify Playlist Exporter
 Aplicação em Python que acessa playlists do Spotify e exporta músicas para CSV usando a API oficial.
 
-### 🤖 Projetos de Machine Learning
-Experimentos com recomendação inteligente, previsão e análise de dados.
+<div>
 
-### 🌐 APIs & Backend
-Projetos focados em integração com APIs, autenticação OAuth e automações.
+<a href="https://github.com/gabrielbraganholo/spotify-playlist-exporter">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+</a>
 
----
+</div>
+
+##
 
 ## 📊 Atividade
 
@@ -92,17 +54,17 @@ Projetos focados em integração com APIs, autenticação OAuth e automações.
 
 </div>
 
----
+##
 
 ## 🌎 Redes
 
 <div align="center">
 
-<a href="https://github.com/gabrielbraganholo">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/gabrielmbraganholo/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/gabriel-morais-braganholo-69ba553b7/?originalSubdomain=br">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -112,20 +74,14 @@ Projetos focados em integração com APIs, autenticação OAuth e automações.
 
 </div>
 
----
+###
 
 <div align="center">
+
+##
 
 ### 👀 Visitors
 
 <img src="https://komarev.com/ghpvc/?username=gabrielbraganholo&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-✨ “Always building, always learning.”
 
 </div>
