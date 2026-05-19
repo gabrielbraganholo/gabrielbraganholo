@@ -14,7 +14,7 @@ Estudo na Universidade Franciscana de Santa Maria, atualmente no 3º semestre. T
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,c,cs,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,c,cs,spring,java,git,github,vscode" />
 
 </div>
 
