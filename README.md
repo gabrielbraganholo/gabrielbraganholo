@@ -1,13 +1,11 @@
-<h1 align="center">Olá, eu sou Gabriel Morais Braganholo</h1>
-
 <h3 align="center">
-💻 Estudante de Ciência da Computação • Backend Developer
+Computer Science Student
 </h3>
 
 <br>
 
 <p align="justify">
-Estudo na Universidade Franciscana de Santa Maria, atualmente no 3º semestre. Tenho interesse em desenvolvimento backend, inteligência artificial e machine learning, e gosto de criar projetos práticos utilizando Python, APIs e automações, sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
+I am currently in my 3rd semester at Universidade Franciscana. I am interested in backend development, artificial intelligence, and machine learning. I enjoy building practical projects with Python, APIs, and automation, and I am always looking to learn new technologies and improve my skills as a developer.
 </p>
 
 ---
@@ -19,44 +17,6 @@ Estudo na Universidade Franciscana de Santa Maria, atualmente no 3º semestre. T
 </div>
 
 ---
-
-
-## 📈 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbraganholo&theme=tokyonight" />
-
-</div>
-
-##
-
-## 📌 Projetos em destaque
-
-### 🎵 Spotify Playlist Exporter
-Aplicação em Python que acessa playlists do Spotify e exporta músicas para CSV usando a API oficial.
-
-<div>
-
-<a href="https://github.com/gabrielbraganholo/spotify-playlist-exporter">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</div>
-
-##
-
-## 📊 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielbraganholo&theme=tokyo-night"/>
-
-</div>
-
-##
-
-## 🌎 Redes
 
 <div align="center">
 
@@ -76,12 +36,3 @@ Aplicação em Python que acessa playlists do Spotify e exporta músicas para CS
 
 ###
 
-<div align="center">
-
-##
-
-### 👀 Visitors
-
-<img src="https://komarev.com/ghpvc/?username=gabrielbraganholo&color=blueviolet&style=for-the-badge"/>
-
-</div>
