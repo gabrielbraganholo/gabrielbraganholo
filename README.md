@@ -5,7 +5,7 @@ Computer Science Student
 <br>
 
 <p align="justify">
-I am currently in my 3rd semester at <a href="https://www.ufn.edu.br/">Universidade Franciscana</a>. I am interested in backend development, artificial intelligence, and machine learning. I enjoy building practical projects with Python, APIs, and automation, and I am always looking to learn new technologies and improve my skills as a developer.
+I am currently in my 3rd semester at <a href="https://www.ufn.edu.br/">Universidade Franciscana</a>. I am interested in backend development, artificial intelligence, and machine learning. I enjoy building practical projects with APIs and automation, and I am always looking to learn new technologies and improve my skills as a developer.
 </p>
 
 ---
